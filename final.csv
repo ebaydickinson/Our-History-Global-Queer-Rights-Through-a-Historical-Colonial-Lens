@@ -1,0 +1,55 @@
+country ,region,buggeryYear,colonizationYear,gayScore,transScore
+Antigua and Barbuda,caribbean ,1840,1632,0.3,0.35
+Australia,oceania,1788,1788,0.93,0.71
+Bahamas,caribbean ,1861,1629,0.63,0.47
+Bangladesh ,southeast asia,1860,1757,0.11,0.24
+Barbados,caribbean ,1861,1625,0.26,0.47
+Belize,central america,1888,1763,0.48,0.47
+Botswana,africa,1885,1885,0.52,0.53
+Cameroon,africa,1972,1884,0.15,0.18
+Canada,north america,1869,1763,0.96,0.88
+Cyprus,europe,1889,1878,0.82,0.53
+Dominica,caribbean ,1860,1763,0.15,0.25
+Eswantini,africa,1907,1906,0.22,0.18
+Fiji,oceania,1874,1874,0.3,0.35
+Gabon,africa,2019,1838,0.78,0.65
+Gambia,africa,1821,1821,0.15,0.12
+Ghana,africa,1861,1874,0.11,0.12
+Grenada,caribbean ,1861,1762,0.22,0.29
+Guyana,south america,1893,1831,0.31,0.38
+India,southeast asia,1860,1858,0.33,0.41
+Jamaica,caribbean ,1864,1665,0.37,0.71
+Kenya,africa,1897,1895,0.3,0.35
+Kiribati,oceania,1892,1892,0.22,0.35
+Lesotho,africa,1869,1869,0.35,0.44
+Malawi,africa,1891,1891,0.59,0.47
+Malaysia,southeast asia,1976,1826,0.22,0.12
+Maldives,southeast asia,1887,1887,0.15,0.06
+Malta,europe,1802,1800,0.07,0.24
+Myanmar,southeast asia,1860,1824,1,0.94
+Mauritius,africa,1838,1810,0.5,0.44
+Mozambique,africa,1886,1498,0.52,0.41
+Namibia ,africa,1652,1884,0.33,0.41
+Nauru,oceania,1899,1886,0.58,0.44
+New Zealand,oceania,1840,1840,0.93,0.82
+Nigeria ,africa,1901,1861,0.07,0.18
+Pakistan,southeast asia,1860,1839,0.07,0.47
+Papua New Guinea,oceania ,1884,1884,0.22,0.24
+Saint Lucia,caribbean ,1888,1762,0.31,0.44
+Saint Kitts and Nevis,caribbean ,1873,1782,0.22,0.29
+Saint Vincent and the Grenadines,caribbean ,1877,1763,0.12,0.19
+Samoa,oceania,1914,1914,0.35,0.5
+Seychelles ,oceania,1838,1793,0.59,0.47
+Sierra Leone ,africa,1861,1808,0.15,0.24
+Singapore,southeast asia,1936,1824,0.37,0.57
+Solomon Islands ,oceania,1899,1886,0.15,0.19
+South Africa,africa,1652,1652,0.85,0.82
+Sri Lanka,southeast asia,1883,1802,0.31,0.41
+Tanzania,africa,1885,1890,0.07,0.18
+Tonga,oceania,1893,1900,0.26,0.24
+Trinidad and Tobago,caribbean ,1888,1797,0.56,0.47
+Tuvalu,oceania,1892,1892,0.15,0.13
+Uganda,africa,1950,1894,0.07,0.12
+Vanuatu,oceania,1906,1906,0.58,0.5
+Zambia,africa,1911,1911,0.11,0.18
+Zimbabwe,africa,1891,1890,0.19,0.29
