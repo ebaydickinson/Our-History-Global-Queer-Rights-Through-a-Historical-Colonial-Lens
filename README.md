@@ -1,5 +1,8 @@
 # Our-History-Global-Queer-Rights-Through-a-Historical-Colonial-Lens
 
+Data Science by Design, Volume. 2 Our Environment published articles: 
+https://datasciencebydesign.org/blog/our-history-global-queer-rights-through-a-historical-colonial-lens
+
 I am interested in the comparative rights of queer people globally. Like in the US, British colonialism has cast a long  shadow of colonial violence on queerness across the  world. 
 
 To understand the history of global homophobia and transphobia, I created a unique dataset of historical buggery law/penal code (laws against sexual acts that are determined to be “unnatural or immoral”) introductions for 55 Commonwealth countries as well as the dates that those Commonwealth countries were formally colonized.
